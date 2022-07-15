@@ -1,4 +1,4 @@
 package com.example.gittest.controller;
 
-public class MemberController {
+public class    MemberController {
 }
